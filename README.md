@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrea Daniela Colunga</h1>
-<h3 align="center">A Frontend Developer and Biomedical Engineer</h3>
+<h3 align="center">A UX/UI Designer | Figma | React Js | Node Js </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreadanielac&label=Profile%20views&color=0e75b6&style=flat" alt="andreadanielac" /> </p>
 
-- 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **andrea.daniela.colunga@gmail.com**
+- 📫 How to reach me **a.danni2107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
